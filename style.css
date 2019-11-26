@@ -1,18 +1,19 @@
 
 .jumbotron {
-    color: #fff;
-    background-position-y: 10%;
-    color: #fff;
-    background-color: #800000;
+    text-align: center;
+    border-radius: 5px;
 }
 
-div.panel-body {
-    background-image: url('../images/express.jpg');
-    color: #fff;
+body {
+    background: #757777;
 }
 
-.btn-primary {
-    background-color: #800000;
-    border-color: #fff;
-    font-weight: bold;
+.add-train-heading {
+    color: #E6E6E6 !important;
+    font-size: 17px;
+}
+
+.train-schedule {
+    color: #E6E6E6 !important;
+    font-size: 17px;
 }
